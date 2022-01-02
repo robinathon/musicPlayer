@@ -1,6 +1,0 @@
-{
-  "files.associations": {
-    "*.js": "javascript",
-    "cmath": "cpp"
-  }
-}
