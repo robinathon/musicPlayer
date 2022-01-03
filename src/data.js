@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from "uuid";
 function ChillHop() {
   return [
     {
-      name: "The Next Episode",
+      name: "The Next EpisodeU",
       artist: "Snoop Dogg, Dr. Dre",
       cover:
         "https://images.genius.com/7d7c1a4a2f10c54b35605ee8046f503c.1000x1000x1.jpg",
