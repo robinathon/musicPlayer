@@ -3,14 +3,15 @@ import { v4 as uuidv4 } from "uuid";
 function ChillHop() {
   return [
     {
-      name: "The Next Episode",
+      name: "The Next EpisodeUl",
       artist: "Snoop Dogg, Dr. Dre",
       cover:
         "https://images.genius.com/7d7c1a4a2f10c54b35605ee8046f503c.1000x1000x1.jpg",
       id: uuidv4(),
       active: true,
       color: ["#642F27", "#9CB4CE"],
-      audio:"https://www.mboxdrive.com/Dr.%20Dre,%20Ft%20Snoop%20Dogg-The%20Next%20Episode%20(lyrics).mp3",
+      audio:
+        "https://www.mboxdrive.com/Dr.%20Dre,%20Ft%20Snoop%20Dogg-The%20Next%20Episode%20(lyrics).mp3",
     },
 
     {
@@ -21,7 +22,8 @@ function ChillHop() {
       id: uuidv4(),
       active: false,
       color: ["#642F27", "#9CB4CE"],
-      audio:"https://www.mboxdrive.com/The%20Script%20-%20Hall%20Of%20Fame%20(Lyrics).mp3"
+      audio:
+        "https://www.mboxdrive.com/The%20Script%20-%20Hall%20Of%20Fame%20(Lyrics).mp3",
     },
 
     {
@@ -32,7 +34,8 @@ function ChillHop() {
       id: uuidv4(),
       active: false,
       color: ["#146787", "#A56235"],
-      audio:"https://www.mboxdrive.com/Aaja%20We%20Mahiya%20(Imran%20Khan).mp3"
+      audio:
+        "https://www.mboxdrive.com/Aaja%20We%20Mahiya%20(Imran%20Khan).mp3",
     },
 
     {
@@ -43,7 +46,8 @@ function ChillHop() {
       id: uuidv4(),
       active: false,
       color: ["#642F27", "#9CB4CE"],
-      audio:"https://www.mboxdrive.com/Justin%20Bieber%20-%20Peaches%20ft.%20Daniel%20Caesar,%20Giveon.mp3"
+      audio:
+        "https://www.mboxdrive.com/Justin%20Bieber%20-%20Peaches%20ft.%20Daniel%20Caesar,%20Giveon.mp3",
     },
 
     {
@@ -54,7 +58,7 @@ function ChillHop() {
       id: uuidv4(),
       active: false,
       color: ["#642F27", "#9CB4CE"],
-      audio:"https://www.mboxdrive.com/Otnicka%20-%20PEAKY%20BLINDERS.mp3"
+      audio: "https://www.mboxdrive.com/Otnicka%20-%20PEAKY%20BLINDERS.mp3",
     },
 
     {
