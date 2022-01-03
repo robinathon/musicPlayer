@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from "uuid";
 function ChillHop() {
   return [
     {
-      name: "The Next EpisodeU",
+      name: "The Next Episode",
       artist: "Snoop Dogg, Dr. Dre",
       cover:
         "https://images.genius.com/7d7c1a4a2f10c54b35605ee8046f503c.1000x1000x1.jpg",
@@ -22,6 +22,17 @@ function ChillHop() {
       active: false,
       color: ["#642F27", "#9CB4CE"],
       audio:"https://www.mboxdrive.com/The%20Script%20-%20Hall%20Of%20Fame%20(Lyrics).mp3"
+    },
+    
+    {
+      name: "Benanza(Belly Dancer)",
+      artist: "Akon",
+      cover:
+        "https://t2.genius.com/unsafe/409x409/https%3A%2F%2Fimages.genius.com%2Fd4b0a94edc41b877037dc0b3a3143389.316x316x1.jpg",
+      id: uuidv4(),
+      active: false,
+      color: ["#642F27", "#9CB4CE"],
+      audio:"https://www.mboxdrive.com/Y2Mate.is%20-%20Bananza%20(Belly%20Dancer)-FobOaKDli28-160k-1638699023254.mp3"
     },
 
     {
