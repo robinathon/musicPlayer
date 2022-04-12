@@ -10,8 +10,7 @@ function ChillHop() {
       id: uuidv4(),
       active: true,
       color: ["#642F27", "#9CB4CE"],
-      audio:"https://uploadbox.io/b13o3b3238b7
-",
+      audio:"https://uploadbox.io/b13o3b3238b7",
     },
 
     {
