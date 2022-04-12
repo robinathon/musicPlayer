@@ -6,11 +6,11 @@ function ChillHop() {
       name: "Jaan Nisaar",
       artist: "Arijit Singh",
       cover:
-        "https://i0.wp.com/www.lyricsupgrade.com/wp-content/uploads/2020/07/Jaan-Nisaar-Lyrics-Arijit-Singh.jpg?w=480&ssl=1",
+        "https://a10.gaanacdn.com/gn_img/albums/g4w3vr3jJB/4w3vZx683j/size_l_1543307373.webp",
       id: uuidv4(),
       active: true,
       color: ["#642F27", "#9CB4CE"],
-      audio:"https://uploadbox.io/b13o3b3238b7",
+      audio:"https://www.mboxdrive.com/X2Download.com%20-%20Jaan%20Nisaar%20-%20Lyrical%20-%20Kedarnath-%20Arijit%20Singh%20-%20Sushant%20Singh%20Rajput%20-%20Sara%20Ali%20Khan-%20Amit%20Trivedi%20(128%20kbps).mp3",
     },
 
     {
@@ -21,7 +21,7 @@ function ChillHop() {
       id: uuidv4(),
       active: false,
       color: ["#642F27", "#9CB4CE"],
-      audio:"https://uploadbox.io/sgik5ey8wba4"
+      audio:"https://www.mboxdrive.com/Hall%20of%20Fame%20-%20The%20Script.mp3"
     },
 
     {
@@ -32,7 +32,7 @@ function ChillHop() {
       id: uuidv4(),
       active: false,
       color: ["#146787", "#A56235"],
-      audio:"https://uploadbox.io/6a3v8zt78i36"
+      audio:"https://www.mboxdrive.com/Aaja-We-Mahiya(PaglaSongs).mp3"
     },
 
     {
@@ -43,7 +43,7 @@ function ChillHop() {
       id: uuidv4(),
       active: false,
       color: ["#642F27", "#9CB4CE"],
-      audio:"https://uploadbox.io/bjg127m7cmlq"
+      audio:"https://www.mboxdrive.com/Peaches(PagalWorld.com.se).mp3"
     },
 
     {
